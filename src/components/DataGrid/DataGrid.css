@@ -1,0 +1,15 @@
+.priority{
+    text-transform: capitalize;
+  }
+  
+  .completed{
+    background-color: #defade;
+  }
+  
+  .rdt_TableRow .fa{
+    font-size: 18px;
+  }
+  
+  div.rdt_TableBody{
+    overflow-y: auto;
+  }

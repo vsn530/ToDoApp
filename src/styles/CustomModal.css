@@ -1,0 +1,16 @@
+.DraftEditor-editorContainer{
+    height: 200px;
+  }
+  
+  .read-only-els{
+    padding: 7px 15px;
+    display: inline-block;
+  }
+  
+  select{
+    text-transform: capitalize;
+  }
+  
+  textarea{
+    resize: none;
+  }

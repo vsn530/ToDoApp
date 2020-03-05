@@ -1,0 +1,12 @@
+.header{
+    border-bottom: 1px solid #e7e7e7;
+  }
+  
+  span.hint {
+    font-size: 11px;
+    color: grey;
+  }
+  
+  .bold{
+    font-weight: bold;
+  }
